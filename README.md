@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Weather App
 
 #### About the Project
